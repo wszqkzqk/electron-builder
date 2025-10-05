@@ -34,6 +34,7 @@ Developer API only. See [Configuration](../configuration/configuration.md) for u
 <li><strong><code id="Arch-x64">x64</code></strong></li>
 <li><strong><code id="Arch-armv7l">armv7l</code></strong></li>
 <li><strong><code id="Arch-arm64">arm64</code></strong></li>
+<li><strong><code id="Arch-loong64">loong64</code></strong></li>
 <li><strong><code id="Arch-universal">universal</code></strong></li>
 </ul>
 <p><a name="module_electron-builder.build"></a></p>
